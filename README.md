@@ -1,3 +1,7 @@
+![bhu1](https://github.com/user-attachments/assets/ce9f8428-c04e-48bf-97d4-287da88697a8)
+![bhu2](https://github.com/user-attachments/assets/4f966e70-7156-446d-9c8f-dc0778b422c8)
+![bhu3](https://github.com/user-attachments/assets/8a0a129f-6872-4840-a416-2356809ee9ab)
+![bhu4](https://github.com/user-attachments/assets/9b7ac390-44a1-41f1-9192-47244e3abf00)
 # 🇧🇹 eResidency Bhutan — Code Meets Sovereignty
 
 **[🌐 Visit Live Website → e-residency.vercel.app](https://e-residency.vercel.app)**
