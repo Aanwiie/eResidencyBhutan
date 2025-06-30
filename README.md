@@ -1,121 +1,88 @@
-![bhu1](https://github.com/user-attachments/assets/ce9f8428-c04e-48bf-97d4-287da88697a8)
-![bhu2](https://github.com/user-attachments/assets/4f966e70-7156-446d-9c8f-dc0778b422c8)
-![bhu3](https://github.com/user-attachments/assets/8a0a129f-6872-4840-a416-2356809ee9ab)
-![bhu4](https://github.com/user-attachments/assets/9b7ac390-44a1-41f1-9192-47244e3abf00)
-# 🇧🇹 eResidency Bhutan — Code Meets Sovereignty
-
-**[🌐 Visit Live Website → e-residency.vercel.app](https://e-residency.vercel.app)**
-
-**eResidency Bhutan** is a modern digital governance platform that allows anyone in the world to become a **digital resident of Bhutan**, start a company, obtain digital credentials, and access sovereign services from anywhere — securely and remotely.
-
-> 🧩 Become a digital resident of Bhutan. Incorporate remotely. Operate globally. All from one screen.
+## 🧠 Team Codename: team-bhutan  
+## 🌍 Project Title: eResidency Bhutan  
+🔗 **Live Demo**: [https://e-residency.vercel.app](https://e-residency.vercel.app)  
+📦 **GitHub Repo**: [Aanwiie/eResidencyBhutan](https://github.com/Aanwiie/eResidencyBhutan)
+LOOM LINK ** :[https://www.loom.com/share/5fef03e835ef4fe29d394351bb2451c7?sid=b5d48020-03a2-46fb-b07b-53f366943c3e]
 
 ---
 
-## 🚀 Why This Exists
+### 🧩 Problem Statement
 
-As the digital age accelerates, Bhutan is uniquely positioned to become a global **digital-first nation**. This project offers:
+How can Bhutan empower global entrepreneurs to become digital residents, start companies, and access verified government services — entirely online?
+![bhu4](https://github.com/user-attachments/assets/60f7b6fd-b224-401b-903f-26ffaa8f556e)
+![bhu3](https://github.com/user-attachments/assets/5ff6f693-c525-4a1c-bfdc-ae7a01c0bbfb)
+![bhu2](https://github.com/user-attachments/assets/aecfd87c-a6ea-418f-ad50-a6f83d9d6069)
+![bhu1](https://github.com/user-attachments/assets/b5d8d503-c95d-4cd9-b566-2b5d9bff7de9)
 
-- 🛂 Global citizens the ability to become **Bhutanese e-residents**
-- 🏢 Entrepreneurs the tools to **form and manage Bhutanese legal entities**
-- 📜 Full **compliance workflows** including tax ID issuance and KYC/AML
-- 🔐 A **crypto-ready, Web3-compatible digital ID system**
 
-Inspired by Estonia. Designed for Bhutan. Built for the world.
+### 💡 Solution: eResidency Bhutan
 
----
+A full-stack, mobile-friendly web platform where global users can:
 
-## 🔧 Tech Stack
+- 🛂 Complete **KYC/AML onboarding**
+- 🆔 Receive **blockchain-ready digital identity**
+- 🏢 Remotely **incorporate Bhutanese businesses**
+- 📜 Access **digital tax IDs and compliance documents**
+- 🦄 Connect Web3 wallets (MetaMask / Polygon)
 
-| Layer            | Tech Choices                                  |
-|------------------|-----------------------------------------------|
-| Frontend         | **React**, **TypeScript**, **Vite**           |
-| Styling          | **Tailwind CSS** with Bhutan-themed design    |
-| Routing          | **React Router v6**                           |
-| State/Context    | **React Context API**                         |
-| Auth Layer       | Custom **Protected Routes**, JWT-ready        |
-| Notifications    | `react-hot-toast`                             |
-| Deployment       | **Vercel**                                     |
+> Built to make Bhutan a digital-first, sovereign startup hub in the global economy.
 
 ---
 
-## 📸 Pages & Routes
+### ⚙️ Tech Stack
 
-| Page URL             | Purpose                                           |
-|----------------------|---------------------------------------------------|
-| `/`                  | Hero landing page with Bhutanese design           |
-| `/about`             | Platform mission, values, and background          |
-| `/features`          | Key capabilities and benefits for users           |
-| `/login` / `/register` | Authentication for digital residents         |
-| `/dashboard`         | Personalized control panel                       |
-| `/kyc`               | KYC/AML onboarding with document verification     |
-| `/identity`          | View your **cryptographic residency ID**          |
-| `/business`          | Incorporate a legal entity in Bhutan              |
-| `/business-services` | Tools and services for registered companies       |
-| `/certificates`      | Digital certificates and Bhutanese tax IDs        |
-| `/admin`             | Admin portal (role-restricted access)             |
+| Layer         | Tech Used                             |
+|---------------|----------------------------------------|
+| Frontend      | React, TypeScript, Vite                |
+| Styling       | TailwindCSS (glassmorphic Bhutanese UI)|
+| Routing       | React Router v6                        |
+| Auth / State  | React Context API                      |
+| Web3 Ready    | MetaMask + Polygon Wallet integration  |
+| Hosting       | Vercel                                 |
+| Backend Ready | Firebase / Express (optional)          |
 
+---
 
-## 🌄 Bhutanese UI Identity
+### 🖼️ Screenshots
 
-- 📸 Full-screen blurred **Bhutan-inspired background**
-- 🎨 Colors: **Saffron, Crimson, Emerald Green, Misty White**
-- ✨ Glassmorphism + cultural gradients
-- 📱 Fully responsive mobile-first design
-- 🌓 Light and dark theme toggle
-- 🗣️ Multi-language font support (Inter, Devanagari, Tibetan)
+#### 🏠 Home Page – Welcoming Global Entrepreneurs
+> "Become a Digital Resident of Bhutan" with a warm, culture-rich landing experience.
 
+---
 
-## 🧠 Architecture Snapshot
+#### 🔒 Identity Verification – KYC Flow
+> Step-by-step onboarding with Personal Info, Documents, and Selfie capture.
 
-📁 src/
-├── pages/ # Each major route (KYC, Identity, Dashboard...)
-├── components/ # Modular UI elements
-├── contexts/ # Theme, Language, Auth context providers
-├── App.tsx # Route definitions and layout control
-├── main.tsx # Entry point
-└── index.css # Custom Tailwind + Bhutan styles
+---
 
-yaml
-Copy
-Edit
+#### 🧾 Digital Identity Dashboard – NFT + Verification Status
+> Web3 wallet support + credential issuance and status tracking.
 
+---
 
+#### 📈 Tax Optimization Portal – Paid Legal Consulting
+> Monetizable consulting portal for legal + tax advisory services.
 
-## 🧪 Local Dev Setup
+---
 
-bash
-git clone https://github.com/Aanwiie/eResidencyBhutan.git
-cd eResidencyBhutan
-npm install
-npm run dev
-🌍 Coming Soon
-🪪 Web3 wallet login (MetaMask + DIDs)
+### 🚀 Features
 
-🔐 NFT-based Digital Residency Cards
+- 🇧🇹 Bhutan-themed responsive UI
+- 🧠 Intelligent step-based onboarding
+- 🔐 Role-based route protection
+- 📄 Tax document & digital cert preview
+- 🪙 Future-ready for NFT/VC issuance
+- 📱 100% mobile-friendly
 
-🧾 Compliance automation (filing reminders, penalties)
+---
 
-🌐 Dzongkha / Mandarin / Hindi localization
+### ✅ Submission Summary
 
-🪙 Integration with cross-border payment rails
+> **Built by:** `Aanwiie`  
+> **Team:** `team-bhutan`  
+> **Category:** Digital Governance + Web3 + LegalTech  
+> **Vision:** Make Bhutan the Delaware of the digital age
 
-🤝 Contribute
-I welcome open-source collaborators, designers, and legal engineers.
+---
 
-bash
-Copy
-Edit
-git checkout -b feature/amazing-feature
-git commit -m "Add amazing feature"
-git push origin feature/amazing-feature
-📄 License
-MIT License © 2025 Aanwiie
-
-🙏 Acknowledgements
-💡 Inspired by Estonia’s e-Residency
-
-🇧🇹 Built for the Kingdom of Bhutan — bridging culture + code
-
-🧠 Designed & developed by Aanwiie with care!
-
+🙏 Thank you for reviewing our project. Feedback and support appreciated!
